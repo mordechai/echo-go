@@ -7,7 +7,7 @@ package cmd
 import (
 	"log"
 
-	"github.com/mlehrer/echo-go/pkg/server"
+	"github.com/mordechai/echo-go/pkg/server"
 	"github.com/spf13/cobra"
 )
 

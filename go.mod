@@ -1,4 +1,4 @@
-module github.com/mlehrer/echo-go
+module github.com/mordechai/echo-go
 
 go 1.18
 
