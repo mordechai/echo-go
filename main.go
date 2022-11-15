@@ -1,5 +1,5 @@
 /*
-Copyright © 2022 Mordechai Lehrer mlehrer@redhat.com
+Copyright © 2022 Mordechai Lehrer mordechai@redhat.com
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "github.com/mlehrer/echo-go/cmd"
+import "github.com/mordechai/echo-go/cmd"
 
 func main() {
 	cmd.Execute()
